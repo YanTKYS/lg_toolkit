@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 YanTKYS
+ * SPDX-License-Identifier: MIT
+ * License text: https://github.com/YanTKYS/lg_toolkit/blob/main/LICENSE
+ */
+
 (function () {
   'use strict';
 
